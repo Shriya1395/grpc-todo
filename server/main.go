@@ -1,7 +1,5 @@
 package main
 
-//https://www.golinuxcloud.com/golang-grpc/
-
 import (
 	"context"
 	"github.com/google/uuid"
